@@ -1,1 +1,64 @@
-place holder
+{
+        "predicates": [
+                        {
+                                "value": "insider",
+                                "expanded": "Used if an organizational insider was the result of the breach."
+                        },
+                        {
+                                "value": "misconfiguration",
+                                "expanded": "Used if result of breach was due to system or app misconfiguration"
+                        },
+                        {
+                                "value": "supply-chain",
+                                "expanded": "Used if result of breach was result of supply chain compromise"
+                        },
+                        {
+                                "value": "ransomware",
+                                "expanded": "Used if result of breach was due to ransomware"
+                        },
+                        {
+                                "value": "phishing-scam",
+                                "expanded": "Used if result of breach was due to social engineering attack on organization"
+                        },
+                        {
+                                "value": "unauthorized-third-party",
+                                "expanded": "Used if result of breach was due to unauthorized access to the data by a third party"
+                        },
+                        {
+                                "value": "malware",
+                                "expanded": "Used if result of breach was due to malware infection of organizational systems"
+                        },
+
+                        {
+                                "value": "weather-related",
+                                "expanded": "Used if weather was the cause of the data breach"
+                        },
+                        {
+                                "value": "physical-break-in",
+                                "expanded": "Used if the cause was related to a physical break in of the organization by malicious actor"
+                        },
+                        {
+                                "value": "wrong-physical-mailing-address",
+                                "expanded": "Used if the organization used the wrong physical mailing address which resulted in the wrong individuals having access to sensitive data"
+                        },
+                        {
+                                "value": "wrong-email-address",
+                                "expanded": "Used if the organization used the wrong email address which resulted in the wrong individuals having access to sensitive data"
+                        },
+                        {
+                                "value": "stolen-device",
+                                "expanded": "Used if an organizational device was stolen, but not the result of physical break in of organizational facilities"
+                        },
+                        {
+                                "value": "cause-of-breach-unknown",
+                                "expanded": "Used if result of breach is unknown, but a breach disclosure has been reported"
+                        },
+						{
+                                "value": "negligent-handling",
+                                "expanded": "Used if result of breach is due to some form of negligence (i.e. PHI data simply thrown in trash and not properly destroyed)"
+                        }
+        ],
+        "version": 1,
+        "description": "LabyrINTh Data Breach Classification (MISP taxonomies). No external reference.  Built based on analyst experience.",
+        "namespace": "databreach"
+}
