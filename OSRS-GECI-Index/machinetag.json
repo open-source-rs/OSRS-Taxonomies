@@ -1,0 +1,355 @@
+{
+        "predicates": [
+                        {
+                                "value": "local-administration",
+                                "expanded": "Organizations that proform the administration of a jurisdiction (i.e. councils)."
+                        },
+						{
+                                "value": "local-agriculture",
+                                "expanded": "Organization that perform agricultural regulatory duties and oversight within a jurisdiction."
+                        },
+						{
+                                "value": "local-civil-service",
+                                "expanded": "Professional organizations that do not participate in perform military, judicial, or duties of elected officials."
+                        },
+						{
+                                "value": "local-comptroller",
+                                "expanded": "Organizations that perform financial functions of a particular jurisdiction."
+                        },
+						{
+                                "value": "local-consumer-protection",
+                                "expanded": "Organizations that work with law-enforcement and judicial branches on behalf of the consumer."
+                        },
+						{
+                                "value": "local-corrections",
+                                "expanded": "The development and management of correctional facilitiees within a jurisdiction."
+                        },
+						{
+                                "value": "local-economic-development",
+                                "expanded": "Organizations that work towards the economic growth and stability within a jurisdiction."
+                        },
+						{
+                                "value": "local-education",
+                                "expanded": "Organizations that develop and maintain educational facilities within a jurisdiction."
+                        },
+						{
+                                "value": "local-emergency-management",
+                                "expanded": "Organizations that perform the functions required during an emergency within a jurisdiction (i.e. earthquake rescue crews and their respective management)."
+                        },
+						{
+                                "value": "local-energy",
+                                "expanded": "Organizations that are involved in the governance and oversight of energy operations within a jurisdiction."
+                        },
+						{
+                                "value": "local-environment",
+                                "expanded": "Organizations that are involved in the governance and oversight of environmental matters within a jurisidiction."
+                        },
+						{
+                                "value": "local-fire-protection",
+                                "expanded": "Organizations that perform the function of developing and managing fire protection within a jurisdiction (i.e. fire departments)."
+                        },
+						{
+                                "value": "local-health-care",
+                                "expanded": "Organizations that are involved in the governance and oversight; as well as, the development and management of public health related facilities within a jurisdiction."
+                        },
+						{
+                                "value": "local-housing",
+                                "expanded": "Organizations that are involved in the governance and oversight of public housing within a jurisidiction."
+                        },
+						{
+                                "value": "local-insurance",
+                                "expanded": "Organizations that are involved in both public and private insurance and oversight within a jurisidiction."
+                        },
+						{
+                                "value": "local-justice",
+                                "expanded": "Organizations that perform judical functions within a jurisdiction (i.e. courts)."
+                        },
+						{
+                                "value": "local-labor",
+                                "expanded": "Organizations that are involved in the governance and oversight of labor related issues within a jurisdiction."
+                        },
+						{
+                                "value": "local-law-enforcement",
+                                "expanded": "Organizations that perform police or police-like functions within a jurisdiction."
+                        },
+						{
+                                "value": "local-motor-vehicles",
+                                "expanded": "Organizations that are involved in the management and oversight of motor vehicles, their registration, and use within a jurisdiction."
+                        },
+						{
+                                "value": "local-military-affairs",
+                                "expanded": "Organizations that are involved with military affiars within a jurisdiction."
+                        },
+						{
+                                "value": "local-occupational-saftey-and-health",
+                                "expanded": "Organizations that involved with the governance and oversight of labor related saftey issues within a jurisdiction."
+                        },
+						{
+                                "value": "local-pensions",
+                                "expanded": "Organizations that manage the pensions of public employees within a jurisdiction."
+                        },
+						{
+                                "value": "local-public-health",
+                                "expanded": "Organizations that govern and manage public health related issues within a jurisdiction (i.e. matters that might involve great harm to a community)."
+                        },
+						{
+                                "value": "local-secretary",
+                                "expanded": "Organizations that perform one or many administrative duties within a jurisdiction."
+                        },
+						{
+                                "value": "local-parks",
+                                "expanded": "Organizations that perform the development and management of protected lands within a jurisdiction."
+                        },
+						{
+                                "value": "local-transportation",
+                                "expanded": "Organizations that are involved with the governance, oversight, development, or management of public transportation systems within a jurisdiction."
+                        },
+						{
+                                "value": "local-unemployment",
+                                "expanded": "Organizations that are involved with the governance and oversight of unemployment activies within a jurisdiction."
+                        },
+						{
+                                "value": "local-veteran-affairs",
+                                "expanded": "Organizations that are involved with the governance, oversight, development, or management of facilities (or activieis) related to veteran affairs within a jurisdiction."
+                        },
+						{
+                                "value": "local-worker-compensation",
+                                "expanded": "Organizations that are involved in the governance and oversight of worker compensation related issues within a jurisdiction."
+                        },
+						{
+                                "value": "state-administration",
+                                "expanded": "Organizations that proform the administration of a jurisdiction (i.e. councils)."
+                        },
+						{
+                                "value": "state-agriculture",
+                                "expanded": "Organization that perform agricultural regulatory duties and oversight within a jurisdiction."
+                        },
+						{
+                                "value": "state-civil-service",
+                                "expanded": "Professional organizations that do not participate in perform military, judicial, or duties of elected officials."
+                        },
+						{
+                                "value": "state-comptroller",
+                                "expanded": "Organizations that perform financial functions of a particular jurisdiction."
+                        },
+						{
+                                "value": "state-consumer-protection",
+                                "expanded": "Organizations that work with law-enforcement and judicial branches on behalf of the consumer."
+                        },
+						{
+                                "value": "state-corrections",
+                                "expanded": "The development and management of correctional facilitiees within a jurisdiction."
+                        },
+						{
+                                "value": "state-economic-development",
+                                "expanded": "Organizations that work towards the economic growth and stability within a jurisdiction."
+                        },
+						{
+                                "value": "state-education",
+                                "expanded": "Organizations that develop and maintain educational facilities within a jurisdiction."
+                        },
+						{
+                                "value": "state-emergency-management",
+                                "expanded": "Organizations that perform the functions required during an emergency within a jurisdiction (i.e. earthquake rescue crews and their respective management)."
+                        },
+						{
+                                "value": "state-energy",
+                                "expanded": "Organizations that are involved in the governance and oversight of energy operations within a jurisdiction."
+                        },
+						{
+                                "value": "state-environment",
+                                "expanded": "Organizations that are involved in the governance and oversight of environmental matters within a jurisidiction."
+                        },
+						{
+                                "value": "state-fire-protection",
+                                "expanded": "Organizations that perform the function of developing and managing fire protection within a jurisdiction (i.e. fire departments)."
+                        },
+						{
+                                "value": "state-health-care",
+                                "expanded": "Organizations that are involved in the governance and oversight; as well as, the development and management of public health related facilities within a jurisdiction."
+                        },
+						{
+                                "value": "state-housing",
+                                "expanded": "Organizations that are involved in the governance and oversight of public housing within a jurisidiction."
+                        },
+						{
+                                "value": "state-insurance",
+                                "expanded": "Organizations that are involved in both public and private insurance and oversight within a jurisidiction."
+                        },
+						{
+                                "value": "state-justice",
+                                "expanded": "Organizations that perform judical functions within a jurisdiction (i.e. courts)."
+                        },
+						{
+                                "value": "state-labor",
+                                "expanded": "Organizations that are involved in the governance and oversight of labor related issues within a jurisdiction."
+                        },
+						{
+                                "value": "state-law-enforcement",
+                                "expanded": "Organizations that perform police or police-like functions within a jurisdiction."
+                        },
+						{
+                                "value": "state-motor-vehicles",
+                                "expanded": "Organizations that are involved in the management and oversight of motor vehicles, their registration, and use within a jurisdiction."
+                        },
+						{
+                                "value": "state-military-affairs",
+                                "expanded": "Organizations that are involved with military affiars within a jurisdiction."
+                        },
+						{
+                                "value": "state-occupational-saftey-and-health",
+                                "expanded": "Organizations that involved with the governance and oversight of labor related saftey issues within a jurisdiction."
+                        },
+						{
+                                "value": "state-pensions",
+                                "expanded": "Organizations that manage the pensions of public employees within a jurisdiction."
+                        },
+						{
+                                "value": "state-public-health",
+                                "expanded": "Organizations that govern and manage public health related issues within a jurisdiction (i.e. matters that might involve great harm to a community)."
+                        },
+						{
+                                "value": "state-secretary",
+                                "expanded": "Organizations that perform one or many administrative duties within a jurisdiction."
+                        },
+						{
+                                "value": "state-parks",
+                                "expanded": "Organizations that perform the development and management of protected lands within a jurisdiction."
+                        },
+						{
+                                "value": "state-transportation",
+                                "expanded": "Organizations that are involved with the governance, oversight, development, or management of public transportation systems within a jurisdiction."
+                        },
+						{
+                                "value": "state-unemployment",
+                                "expanded": "Organizations that are involved with the governance and oversight of unemployment activies within a jurisdiction."
+                        },
+						{
+                                "value": "state-veteran-affairs",
+                                "expanded": "Organizations that are involved with the governance, oversight, development, or management of facilities (or activieis) related to veteran affairs within a jurisdiction."
+                        },
+						{
+                                "value": "state-worker-compensation",
+                                "expanded": "Organizations that are involved in the governance and oversight of worker compensation related issues within a jurisdiction."
+                        },
+						{
+                                "value": "federal-administration",
+                                "expanded": "Organizations that proform the administration of a jurisdiction (i.e. councils)."
+                        },
+						{
+                                "value": "federal-agriculture",
+                                "expanded": "Organization that perform agricultural regulatory duties and oversight within a jurisdiction."
+                        },
+						{
+                                "value": "federal-civil-service",
+                                "expanded": "Professional organizations that do not participate in perform military, judicial, or duties of elected officials."
+                        },
+						{
+                                "value": "federal-comptroller",
+                                "expanded": "Organizations that perform financial functions of a particular jurisdiction."
+                        },
+						{
+                                "value": "federal-consumer-protection",
+                                "expanded": "Organizations that work with law-enforcement and judicial branches on behalf of the consumer."
+                        },
+						{
+                                "value": "federal-corrections",
+                                "expanded": "The development and management of correctional facilitiees within a jurisdiction."
+                        },
+						{
+                                "value": "federal-economic-development",
+                                "expanded": "Organizations that work towards the economic growth and stability within a jurisdiction."
+                        },
+						{
+                                "value": "federal-education",
+                                "expanded": "Organizations that develop and maintain educational facilities within a jurisdiction."
+                        },
+						{
+                                "value": "federal-emergency-management",
+                                "expanded": "Organizations that perform the functions required during an emergency within a jurisdiction (i.e. earthquake rescue crews and their respective management)."
+                        },
+						{
+                                "value": "federal-energy",
+                                "expanded": "Organizations that are involved in the governance and oversight of energy operations within a jurisdiction."
+                        },
+						{
+                                "value": "federal-environment",
+                                "expanded": "Organizations that are involved in the governance and oversight of environmental matters within a jurisidiction."
+                        },
+						{
+                                "value": "federal-fire-protection",
+                                "expanded": "Organizations that perform the function of developing and managing fire protection within a jurisdiction (i.e. fire departments)."
+                        },
+						{
+                                "value": "federal-health-care",
+                                "expanded": "Organizations that are involved in the governance and oversight; as well as, the development and management of public health related facilities within a jurisdiction."
+                        },
+						{
+                                "value": "federal-housing",
+                                "expanded": "Organizations that are involved in the governance and oversight of public housing within a jurisidiction."
+                        },
+						{
+                                "value": "federal-insurance",
+                                "expanded": "Organizations that are involved in both public and private insurance and oversight within a jurisidiction."
+                        },
+						{
+                                "value": "federal-justice",
+                                "expanded": "Organizations that perform judical functions within a jurisdiction (i.e. courts)."
+                        },
+						{
+                                "value": "federal-labor",
+                                "expanded": "Organizations that are involved in the governance and oversight of labor related issues within a jurisdiction."
+                        },
+						{
+                                "value": "federal-law-enforcement",
+                                "expanded": "Organizations that perform police or police-like functions within a jurisdiction."
+                        },
+						{
+                                "value": "federal-motor-vehicles",
+                                "expanded": "Organizations that are involved in the management and oversight of motor vehicles, their registration, and use within a jurisdiction."
+                        },
+						{
+                                "value": "federal-military-affairs",
+                                "expanded": "Organizations that are involved with military affiars within a jurisdiction."
+                        },
+						{
+                                "value": "federal-occupational-saftey-and-health",
+                                "expanded": "Organizations that involved with the governance and oversight of labor related saftey issues within a jurisdiction."
+                        },
+						{
+                                "value": "federal-pensions",
+                                "expanded": "Organizations that manage the pensions of public employees within a jurisdiction."
+                        },
+						{
+                                "value": "federal-public-health",
+                                "expanded": "Organizations that govern and manage public health related issues within a jurisdiction (i.e. matters that might involve great harm to a community)."
+                        },
+						{
+                                "value": "federal-secretary",
+                                "expanded": "Organizations that perform one or many administrative duties within a jurisdiction."
+                        },
+						{
+                                "value": "federal-parks",
+                                "expanded": "Organizations that perform the development and management of protected lands within a jurisdiction."
+                        },
+						{
+                                "value": "federal-transportation",
+                                "expanded": "Organizations that are involved with the governance, oversight, development, or management of public transportation systems within a jurisdiction."
+                        },
+						{
+                                "value": "federal-unemployment",
+                                "expanded": "Organizations that are involved with the governance and oversight of unemployment activies within a jurisdiction."
+                        },
+						{
+                                "value": "federal-veteran-affairs",
+                                "expanded": "Organizations that are involved with the governance, oversight, development, or management of facilities (or activieis) related to veteran affairs within a jurisdiction."
+                        },
+						{
+                                "value": "federal-worker-compensation",
+                                "expanded": "Organizations that are involved in the governance and oversight of worker compensation related issues within a jurisdiction."
+                        }
+        ],
+        "version": 1,
+        "description": "OSRS Government Entity Classfication Index (MISP taxonomies). The namespace represents the acronym Government Entity Classification Index (GECI). No external reference. Built based on analyst experience and research. This taxonomy is used to classify recorded government entities. There are three levels of classification - local, state, and federal; as they would apply to the country of origin (which may change based on country of origin).",
+        "namespace": "osrs-geci"
+}
