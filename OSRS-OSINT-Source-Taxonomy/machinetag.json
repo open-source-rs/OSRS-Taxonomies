@@ -1,15 +1,51 @@
 {
 "predicates": [
                         {
-                                "value": "Infosecurity Magazine",
+                                "value": "Infosecurity-Magazine",
                                 "expanded": "https://www.infosecurity-magazine.com"
                         },
-						            {
+						{
+                                "value": "Security-Affairs",
+                                "expanded": "https://securityaffairs.co/wordpress/"
+                        },
+						{
+                                "value": "Krebs-On-Security",
+                                "expanded": "https://krebsonsecurity.com"
+                        },
+						{
+                                "value": "Cisco-Talos-Intelligence-Group",
+                                "expanded": "https://www.talosintelligence.com"
+                        },
+						{
+                                "value": "TrendMicro-Security-Intelligence-Blog",
+                                "expanded": "https://blog.trendmicro.com/trendlabs-security-intelligence/"
+                        },
+						{
+                                "value": "FireEye-Threat-Research",
+                                "expanded": "https://www.fireeye.com/blog/threat-research.html"
+                        },
+						{
+                                "value": "ZLAB-Yoroi",
+                                "expanded": "https://blog.yoroi.company/author/malwarezlab/"
+                        },
+						{
+                                "value": "TechCrunch",
+                                "expanded": "https://techcrunch.com/"
+                        },
+						{
+                                "value": "ZDNet",
+                                "expanded": "https://www.zdnet.com/"
+                        },
+						{
+                                "value": "abc15",
+                                "expanded": "https://www.abc15.com"
+                        },
+			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 2,
+        "version": 3,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
