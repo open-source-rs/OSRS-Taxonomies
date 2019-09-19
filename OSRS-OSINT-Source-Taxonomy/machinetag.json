@@ -84,12 +84,48 @@
                                 "value": "Secureworks-Blog",
                                 "expanded": "https://www.secureworks.com/blog"
                         },
+						{
+                                "value": "ZScaler-Blog",
+                                "expanded": "https://www.zscaler.com/blogs"
+                        },
+						{
+                                "value": "International-Business-Times-IBTimes",
+                                "expanded": "https://www.ibtimes.sg/corporate/about"
+                        },
+						{
+                                "value": "Caller-Times",
+                                "expanded": "https://www.caller.com"
+                        },
+						{
+                                "value": "Cofense-Intelligence",
+                                "expanded": "https://cofense.com/astaroth-uses-facebook-youtube-within-infection-chain/"
+                        },
+						{
+                                "value": "WTVY.com",
+                                "expanded": "https://www.wtvy.comm"
+                        },
+						{
+                                "value": "SenseCy",
+                                "expanded": "https://blog.sensecy.com"
+                        },
+						{
+                                "value": "The-Star-Online",
+                                "expanded": "https://www.thestar.com.my"
+                        },
+						{
+                                "value": "The-Atlanta-Journal-Constitution-ajc.com",
+                                "expanded": "https://www.ajc.com"
+                        },
+						{
+                                "value": "Guardicore-Labs",
+                                "expanded": "https://www.guardicore.com/labs/"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 5,
+        "version": 6,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
