@@ -132,12 +132,64 @@
                                 "value": "Gillettte-News-Record",
                                 "expanded": "https://www.gillettenewsrecord.com"
                         },
+						{
+                                "value": "KPIX5-SF-Bay-Area",
+                                "expanded": "https://sanfrancisco.cbslocal.com/"
+                        },
+						{
+                                "value": "Kaspersky-Research",
+                                "expanded": "https://securelist.com"
+                        },
+						{
+                                "value": "Stuff",
+                                "expanded": "https://www.stuff.co.nz"
+                        },
+						{
+                                "value": "The-Sun",
+                                "expanded": "https://www.thesun.co.uk"
+                        },
+						{
+                                "value": "Proofpoint-Threat-Insight-Blog",
+                                "expanded": "https://www.proofpoint.com/us/blog/threat-insight"
+                        },
+						{
+                                "value": "WFXRtv-com",
+                                "expanded": "https://www.wfxrtv.com"
+                        },
+						{
+                                "value": "Intezer-Blog",
+                                "expanded": "https://www.intezer.com/blog/"
+                        },
+						{
+                                "value": "The-London-Free-Press",
+                                "expanded": "https://lfpress.com"
+                        },
+						{
+                                "value": "E-Hacking-News",
+                                "expanded": "https://www.ehackingnews.com"
+                        },
+						{
+                                "value": "Have-I-Been-Pwned",
+                                "expanded": "https://haveibeenpwned.com"
+                        },
+						{
+                                "value": "IT News Africa",
+                                "expanded": "https://www.itnewsafrica.com"
+                        },
+						{
+                                "value": "The Citizen Lab",
+                                "expanded": "https://citizenlab.ca"
+                        },
+						{
+                                "value": "ClearSky",
+                                "expanded": "https://www.clearskysec.com"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 7,
+        "version": 8,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
