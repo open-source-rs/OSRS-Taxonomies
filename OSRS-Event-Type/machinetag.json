@@ -1,1 +1,48 @@
-place holder
+{
+"predicates": [
+                        {
+                                "value": "Threat-Actor",
+                                "expanded": "Used if the event contains information on a named or unnamed threat actor."
+                        },
+						{
+                                "value": "Backdoor",
+                                "expanded": "Used if the event contains information regarding a backdoor tool type."
+                        },
+						{
+                                "value": "Botnet",
+                                "expanded": "Used if the event contains information regarding a botnet."
+                        },
+						{
+                                "value": "Campaign",
+                                "expanded": "Used if the event contains information regarding a tracked campaign."
+                        },
+						{
+                                "value": "Data-Breach",
+                                "expanded": "Used if the event contains information regarding a data breach. A data breach can contain several other types of events (i.e. Ransomware, Threat-Actor, etc.)."
+                        },
+						{
+                                "value": "Exploit",
+                                "expanded": "Used if the event contains information regarding an exploit."
+                        },
+						{
+                                "value": "Ransomware",
+                                "expanded": "Used if the event contains information regarding ransomeware."
+                        },
+						{
+                                "value": "Security-Tool",
+                                "expanded": "Used if the event contains information regarding a security tool."
+                        },
+						{
+                                "value": "Tool",
+                                "expanded": "Used if the event contains information regarding a tool (malware, RAT, etc.)."
+                        },
+						{
+                                "value": "Vulnerability",
+                                "expanded": "Used if the event contains information regarding a vulnerability."
+                        }
+			        ],
+        "version": 1,
+        "description": "OSRS taxonomy that is used to tag events by their type which is then used to group events into pools of data for analysis.",
+        "namespace": "osrs-event-type"
+}
+
