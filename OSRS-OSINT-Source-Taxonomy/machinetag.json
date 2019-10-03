@@ -184,12 +184,44 @@
                                 "value": "ClearSky",
                                 "expanded": "https://www.clearskysec.com"
                         },
+						{
+                                "value": "Palo Alto Networks UNIT42",
+                                "expanded": "https://unit42.paloaltonetworks.com"
+                        },
+						{
+                                "value": "Malware Must Die",
+                                "expanded": "https://blog.malwaremustdie.org"
+                        },
+						{
+                                "value": "Fidelis Cybersecurity Blog",
+                                "expanded": "https://www.fidelissecurity.com/threatgeek/threat-intelligence/"
+                        },
+						{
+                                "value": "Juniper Threat Research",
+                                "expanded": "https://forums.juniper.net/t5/Threat-Research/bg-p/threatresearch"
+                        },
+						{
+                                "value": "IBM X-Force Threat Research",
+                                "expanded": "https://securityintelligence.com/category/x-force/"
+                        },
+						{
+                                "value": "iTWire",
+                                "expanded": "https://www.itwire.com"
+                        },
+						{
+                                "value": "93.1FM WIBC",
+                                "expanded": "https://www.wibc.com"
+                        },
+						{
+                                "value": "Confiant",
+                                "expanded": "https://blog.confiant.com"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 8,
+        "version": 10,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
