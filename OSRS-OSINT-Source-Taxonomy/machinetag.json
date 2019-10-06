@@ -216,12 +216,40 @@
                                 "value": "Confiant",
                                 "expanded": "https://blog.confiant.com"
                         },
+						{
+                                "value": "WRAL.com",
+                                "expanded": "https://www.wral.com"
+                        },
+						{
+                                "value": "Netskope Blog",
+                                "expanded": "https://www.netskope.com/blog"
+                        },
+						{
+                                "value": "Avast Blog",
+                                "expanded": "https://blog.avast.com"
+                        },
+						{
+                                "value": "Agari",
+                                "expanded": "https://www.agari.com"
+                        },
+						{
+                                "value": "Prevailion Blog",
+                                "expanded": "https://blog.prevailion.com"
+                        },
+						{
+                                "value": "McAfee Labs Blog",
+                                "expanded": "https://securingtomorrow.mcafee.com/category/other-blogs/mcafee-labs/"
+                        },
+						{
+                                "value": "Patch",
+                                "expanded": "https://patch.com"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 10,
+        "version": 11,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
