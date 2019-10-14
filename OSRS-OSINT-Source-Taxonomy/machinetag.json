@@ -244,12 +244,32 @@
                                 "value": "Patch",
                                 "expanded": "https://patch.com"
                         },
+						{
+                                "value": "Sophos News",
+                                "expanded": "https://news.sophos.com/en-us/"
+                        },
+						{
+                                "value": "Malwarebytes Labs",
+                                "expanded": "https://blog.malwarebytes.com"
+                        },
+						{
+                                "value": "Akamai Security Intelligence & Threat Research",
+                                "expanded": "https://blogs.akamai.com/sitr/"
+                        },
+						{
+                                "value": "Philly Voice",
+                                "expanded": "https://www.phillyvoice.com"
+                        },
+						{
+                                "value": "Daily Mail.com UK",
+                                "expanded": "https://www.dailymail.co.uk/home/index.html"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 11,
+        "version": 12,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
