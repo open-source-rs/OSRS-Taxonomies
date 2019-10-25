@@ -264,12 +264,36 @@
                                 "value": "Daily Mail.com UK",
                                 "expanded": "https://www.dailymail.co.uk/home/index.html"
                         },
+						{
+                                "value": "Marco Ramilli Blog",
+                                "expanded": "https://marcoramilli.com/"
+                        },
+						{
+                                "value": "CrowdStrike Threat Blog",
+                                "expanded": "https://www.crowdstrike.com/blog/"
+                        },
+						{
+                                "value": "Anomali Labs",
+                                "expanded": "https://www.anomali.com/blog/category/research"
+                        },
+						{
+                                "value": "Advanced Intelligence, LLC (AdvIntel)",
+                                "expanded": "https://www.advanced-intel.com/blog"
+                        },
+						{
+                                "value": "The Sun (San Bernadino, CA)",
+                                "expanded": "https://www.sbsun.com/"
+                        },
+						{
+                                "value": "Flathead Beacon",
+                                "expanded": "https://flatheadbeacon.com/"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 12,
+        "version": 13,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
