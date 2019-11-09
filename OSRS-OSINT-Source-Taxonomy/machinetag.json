@@ -288,12 +288,28 @@
                                 "value": "Flathead Beacon",
                                 "expanded": "https://flatheadbeacon.com/"
                         },
+						{
+                                "value": "Cybereason Blog",
+                                "expanded": "https://www.cybereason.com/blog"
+                        },
+						{
+                                "value": "CBC.ca",
+                                "expanded": "https://www.cbc.ca/"
+                        },
+						{
+                                "value": "Yahoo.com",
+                                "expanded": "https://www.yahoo.com/"
+                        },
+						{
+                                "value": "KGET.com",
+                                "expanded": "https://www.kget.com/"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 13,
+        "version": 14,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
