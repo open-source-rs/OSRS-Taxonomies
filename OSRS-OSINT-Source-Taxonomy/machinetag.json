@@ -304,6 +304,10 @@
                                 "value": "KGET.com",
                                 "expanded": "https://www.kget.com/"
                         },
+						{
+                                "value": "SC Magazine",
+                                "expanded": "https://www.scmagazine.com/"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
