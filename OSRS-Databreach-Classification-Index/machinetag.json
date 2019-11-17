@@ -53,12 +53,16 @@
                                 "value": "cause-of-breach-unknown",
                                 "expanded": "Used if result of breach is unknown, but a breach disclosure has been reported"
                         },
+			{
+                                "value": "Business-Email-Compromise(BEC)",
+                                "expanded": "Used if result of breach is unknown, but a breach disclosure has been reported"
+                        },
 						{
                                 "value": "negligent-handling",
                                 "expanded": "Used if result of breach is due to some form of negligence (i.e. PHI data simply thrown in trash and not properly destroyed)"
                         }
         ],
-        "version": 1,
+        "version": 2,
         "description": "LabyrINTh Data Breach Classification (MISP taxonomies). No external reference.  Built based on analyst experience.",
         "namespace": "databreach"
 }
