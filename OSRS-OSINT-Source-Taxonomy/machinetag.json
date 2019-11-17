@@ -1,31 +1,31 @@
 {
 "predicates": [
                         {
-                                "value": "Infosecurity-Magazine",
+                                "value": "Infosecurity Magazine",
                                 "expanded": "https://www.infosecurity-magazine.com"
                         },
 						{
-                                "value": "Security-Affairs",
+                                "value": "Security Affairs",
                                 "expanded": "https://securityaffairs.co/wordpress/"
                         },
 						{
-                                "value": "Krebs-On-Security",
+                                "value": "Krebs On Security",
                                 "expanded": "https://krebsonsecurity.com"
                         },
 						{
-                                "value": "Cisco-Talos-Intelligence-Group",
+                                "value": "Cisco Talos Intelligence Group",
                                 "expanded": "https://www.talosintelligence.com"
                         },
 						{
-                                "value": "TrendMicro-Security-Intelligence-Blog",
+                                "value": "TrendMicro Security Intelligence Blog",
                                 "expanded": "https://blog.trendmicro.com/trendlabs-security-intelligence/"
                         },
 						{
-                                "value": "FireEye-Threat-Research",
+                                "value": "FireEye Threat Research",
                                 "expanded": "https://www.fireeye.com/blog/threat-research.html"
                         },
 						{
-                                "value": "ZLAB-Yoroi",
+                                "value": "ZLAB Yoroi",
                                 "expanded": "https://blog.yoroi.company/author/malwarezlab/"
                         },
 						{
@@ -45,15 +45,15 @@
                                 "expanded": "https://inc42.com"
                         },
 						{
-                                "value": "CSIS-Tech-Blog",
+                                "value": "CSIS Tech Blog",
                                 "expanded": "https://medium.com/csis-techblog"
                         },
 						{
-                                "value": "Penetration-Testing-Lab",
+                                "value": "Penetration Testing Lab",
                                 "expanded": "https://pentestlab.blog/2019/09/09/microsoft-exchange-ntlm-relay/"
                         },
 						{
-                                "value": "CTV-News",
+                                "value": "CTV News",
                                 "expanded": "https://www.ctvnews.ca"
                         },
 						{
@@ -65,39 +65,39 @@
                                 "expanded": "https://www.bleepingcomputer.com"
                         },
 						{
-                                "value": "Symantec-Blogs",
+                                "value": "Symantec Blogs",
                                 "expanded": "https://www.symantec.com/blogs/"
                         },
 						{
-                                "value": "Check-Point-Research",
+                                "value": "Check Point Research",
                                 "expanded": "https://research.checkpoint.com"
                         },
 						{
-                                "value": "ESET-Research",
+                                "value": "ESET Research",
                                 "expanded": "https://www.welivesecurity.com/research/"
                         },
 						{
-                                "value": "Fortinet-Blog",
+                                "value": "Fortinet Blog",
                                 "expanded": "https://www.fortinet.com/blog"
                         },
 						{
-                                "value": "Secureworks-Blog",
+                                "value": "Dell Secureworks Blog",
                                 "expanded": "https://www.secureworks.com/blog"
                         },
 						{
-                                "value": "ZScaler-Blog",
+                                "value": "ZScaler Blog",
                                 "expanded": "https://www.zscaler.com/blogs"
                         },
 						{
-                                "value": "International-Business-Times-IBTimes",
+                                "value": "International Business Times (IBTimes)",
                                 "expanded": "https://www.ibtimes.sg/corporate/about"
                         },
 						{
-                                "value": "Caller-Times",
+                                "value": "Caller Times",
                                 "expanded": "https://www.caller.com"
                         },
 						{
-                                "value": "Cofense-Intelligence",
+                                "value": "Cofense Intelligence",
                                 "expanded": "https://cofense.com/astaroth-uses-facebook-youtube-within-infection-chain/"
                         },
 						{
@@ -109,35 +109,35 @@
                                 "expanded": "https://blog.sensecy.com"
                         },
 						{
-                                "value": "The-Star-Online",
+                                "value": "The Star Online",
                                 "expanded": "https://www.thestar.com.my"
                         },
 						{
-                                "value": "The-Atlanta-Journal-Constitution-ajc.com",
+                                "value": "The Atlanta Journal Constitution (ajc.com)",
                                 "expanded": "https://www.ajc.com"
                         },
 						{
-                                "value": "Guardicore-Labs",
+                                "value": "Guardicore Labs",
                                 "expanded": "https://www.guardicore.com/labs/"
                         },
 						{
-                                "value": "KUT-90-5",
+                                "value": "KUT 90.5",
                                 "expanded": "https://www.kut.org"
                         },
 						{
-                                "value": "The-Register",
+                                "value": "The Register",
                                 "expanded": "https://www.theregister.co.uk"
                         },
 						{
-                                "value": "Gillettte-News-Record",
+                                "value": "Gillettte News Record",
                                 "expanded": "https://www.gillettenewsrecord.com"
                         },
 						{
-                                "value": "KPIX5-SF-Bay-Area",
+                                "value": "KPIX5 SF Bay Area",
                                 "expanded": "https://sanfrancisco.cbslocal.com/"
                         },
 						{
-                                "value": "Kaspersky-Research",
+                                "value": "Kaspersky Research",
                                 "expanded": "https://securelist.com"
                         },
 						{
@@ -145,27 +145,27 @@
                                 "expanded": "https://www.stuff.co.nz"
                         },
 						{
-                                "value": "The-Sun",
+                                "value": "The Sun",
                                 "expanded": "https://www.thesun.co.uk"
                         },
 						{
-                                "value": "Proofpoint-Threat-Insight-Blog",
+                                "value": "Proofpoint Threat Insight Blog",
                                 "expanded": "https://www.proofpoint.com/us/blog/threat-insight"
                         },
 						{
-                                "value": "WFXRtv-com",
+                                "value": "WFXRtv.com",
                                 "expanded": "https://www.wfxrtv.com"
                         },
 						{
-                                "value": "Intezer-Blog",
+                                "value": "Intezer Blog",
                                 "expanded": "https://www.intezer.com/blog/"
                         },
 						{
-                                "value": "The-London-Free-Press",
+                                "value": "The London Free Press",
                                 "expanded": "https://lfpress.com"
                         },
 						{
-                                "value": "E-Hacking-News",
+                                "value": "E Hacking News",
                                 "expanded": "https://www.ehackingnews.com"
                         },
 						{
@@ -308,12 +308,32 @@
                                 "value": "SC Magazine",
                                 "expanded": "https://www.scmagazine.com/"
                         },
+						{
+                                "value": "Kryptos Logic",
+                                "expanded": "https://www.kryptoslogic.com/"
+                        },
+						{
+                                "value": "NetScout Blog",
+                                "expanded": "https://www.netscout.com/blog"
+                        },
+						{
+                                "value": "41WMGT",
+                                "expanded": "https://41nbc.com/"
+                        },
+						{
+                                "value": "Trustwave SpiderLabs",
+                                "expanded": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/"
+                        },
+						{
+                                "value": "MalCrawler",
+                                "expanded": "https://www.malcrawler.com/"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 14,
+        "version": 15,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
