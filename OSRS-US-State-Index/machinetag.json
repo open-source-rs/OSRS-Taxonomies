@@ -1,35 +1,157 @@
 {
         "predicates": [
                         {
-                                "value": "exploit-db",
-                                "expanded": "Used if the source is the Exploit Database online."
+                                "value": "Alabama AL"
                         },
 						{
-                                "value": "us-cert",
-                                "expanded": "Used if the source is the US-CERT."
+                                "value": "Arizona AZ"
                         },
 						{
-                                "value": "full-disclosure",
-                                "expanded": "Used if the source is from the site Full Disclosure online."
+                                "value": "California CA"
                         },
 						{
-                                "value": "national-vulnerability-database",
-                                "expanded": "Used if the source is the National Vulnerability Database online."
+                                "value": "Colorado CO"
                         },
 						{
-                                "value": "Bugtraq",
-                                "expanded": "Used if the source is Bugtraq online."
+                                "value": "Connecticut CT"
                         },
 						{
-                                "value": "Google-Project-Zero",
-                                "expanded": "Used if the source is Google Project Zero"
+                                "value": "Delaware DE"
                         },
-			{
-				"value": "other-online-resource",
-				"expanded": "Used if the vulnerability was reported by some other form of OSINT source."
-			}
+						{
+                                "value": "Florida FL"
+                        },
+						{
+                                "value": "Georgia GA"
+                        },
+						{
+                                "value": "Hawaii HI"
+                        },
+						{
+                                "value": "Idaho ID"
+                        },
+						{
+                                "value": "Illinois IL"
+                        },
+						{
+                                "value": "Indiana IN"
+                        },
+						{
+                                "value": "Iowa IA"
+                        },
+						{
+                                "value": "Kansas KS"
+                        },
+						{
+                                "value": "Kentucky KY"
+                        },
+						{
+                                "value": "Louisiana LA"
+                        },
+						{
+                                "value": "Maine ME"
+                        },
+						{
+                                "value": "Maryland MD"
+                        },
+						{
+                                "value": "Massachusetts MA"
+                        },
+						{
+                                "value": "Michigan MI"
+                        },
+						{
+                                "value": "Minnesota MN"
+                        },
+						{
+                                "value": "Mississippi MS"
+                        },
+						{
+                                "value": "Missouri MO"
+                        },
+						{
+                                "value": "Montana MT"
+                        },
+						{
+                                "value": "Nebraska NE"
+                        },
+						{
+                                "value": "Nevada NV"
+                        },
+						{
+                                "value": "New Hampshire NH"
+                        },
+						{
+                                "value": "New Jersey NJ"
+                        },
+						{
+                                "value": "New Mexico NM"
+                        },
+						{
+                                "value": "New York NY"
+                        },
+						{
+                                "value": "North Carolina NC"
+                        },
+						{
+                                "value": "North Dakota ND"
+                        },
+						{
+                                "value": "Ohio OH"
+                        },
+						{
+                                "value": "Oklahoma OK"
+                        },
+						{
+                                "value": "Oregon OR"
+                        },
+						{
+                                "value": "Pennsylvania PA"
+                        },
+						{
+                                "value": "Rhode Island RI"
+                        },
+						{
+                                "value": "South Carolina SC"
+                        },
+						{
+                                "value": "South Dakota SD"
+                        },
+						{
+                                "value": "Tennessee TN"
+                        },
+						{
+                                "value": "Texas TX"
+                        },
+						{
+                                "value": "Utah UT"
+                        },
+						{
+                                "value": "Vermont VT"
+                        },
+						{
+                                "value": "Virginia VA"
+                        },
+						{
+                                "value": "Washington WA"
+                        },
+						{
+                                "value": "West Virginia WV"
+                        },
+						{
+                                "value": "Wisconsin WI"
+                        },
+						{
+                                "value": "Wyoming WY"
+                        },
+						{
+                                "value": "District of Columbia DC"
+                        },
+						{
+								"value": "Alaska AK"
+						}
         ],
-        "version": 2,
-        "description": "OSRS Vulnerability / Exploit Source Index is a way to track where the information comes from (i.e. NVD, Exploit-DB et al.)",
-        "namespace": "osrs-vulnerability-exploit-source-index"
+        "version": 1,
+        "description": "OSRS US State Index is used for the palcement of state tags with regard to data breach location. Though primarily used for data breach, the OSRS US State Index taxonomy can be used to tag any artifact with state related information.",
+        "namespace": "osrs-us-state-index"
 }
