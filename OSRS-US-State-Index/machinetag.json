@@ -1,1 +1,35 @@
-ph
+{
+        "predicates": [
+                        {
+                                "value": "exploit-db",
+                                "expanded": "Used if the source is the Exploit Database online."
+                        },
+						{
+                                "value": "us-cert",
+                                "expanded": "Used if the source is the US-CERT."
+                        },
+						{
+                                "value": "full-disclosure",
+                                "expanded": "Used if the source is from the site Full Disclosure online."
+                        },
+						{
+                                "value": "national-vulnerability-database",
+                                "expanded": "Used if the source is the National Vulnerability Database online."
+                        },
+						{
+                                "value": "Bugtraq",
+                                "expanded": "Used if the source is Bugtraq online."
+                        },
+						{
+                                "value": "Google-Project-Zero",
+                                "expanded": "Used if the source is Google Project Zero"
+                        },
+			{
+				"value": "other-online-resource",
+				"expanded": "Used if the vulnerability was reported by some other form of OSINT source."
+			}
+        ],
+        "version": 2,
+        "description": "OSRS Vulnerability / Exploit Source Index is a way to track where the information comes from (i.e. NVD, Exploit-DB et al.)",
+        "namespace": "osrs-vulnerability-exploit-source-index"
+}
