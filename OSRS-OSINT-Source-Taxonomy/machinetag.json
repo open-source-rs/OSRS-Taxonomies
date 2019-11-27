@@ -340,12 +340,24 @@
                                 "value": "The Daily Bulletin",
                                 "expanded": "https://www.dailybulletin.com/"
                         },
+						{
+                                "value": "360 Netlab Blog",
+                                "expanded": "https://blog.netlab.360.com/"
+                        },
+						{
+                                "value": "GData Software",
+                                "expanded": "https://www.gdatasoftware.com/blog"
+                        },
+						{
+                                "value": "Microsoft Security Blog",
+                                "expanded": "https://www.microsoft.com/security/blog/"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 17,
+        "version": 18,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
