@@ -21,7 +21,7 @@
                                 "expanded": "Used if the event contains information regarding a data breach. A data breach can contain several other types of events (i.e. Ransomware, Threat-Actor, etc.)."
                         },
 						{
-                                "value": "Data-Breach-US",
+                                "value": "Data-Breach US",
                                 "expanded": "Used if the event occured within the United States and contains information regarding a data breach. A data breach can contain several other types of events (i.e. Ransomware, Threat-Actor, etc.)."
                         },
 						{
