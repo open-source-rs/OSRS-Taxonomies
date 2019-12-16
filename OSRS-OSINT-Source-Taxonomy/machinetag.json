@@ -368,12 +368,20 @@
                                 "value": "U.S. Department of Health and Human Services Breach Portal",
                                 "expanded": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
                         },
+						{
+                                "value": "Turn to 10 (NBC Affiliate)",
+                                "expanded": "https://turnto10.com/"
+                        },
+						{
+                                "value": "The Georgia Straight (Vancouver, BC)",
+                                "expanded": "https://www.straight.com/"
+                        },
 			            {
                                 "value": "Databreachs.net",
                                 "expanded": "https://www.databreaches.net"
                         }
 			        ],
-        "version": 21,
+        "version": 22,
         "description": "The OSRS OSINT Source Taxonomy is for the adding of tags to OSINT artifiacts by source (i.e. FireEye, Security Affairs, ZDNet et al.)",
         "namespace": "osrs-osint-source-taxonomy"
 }
